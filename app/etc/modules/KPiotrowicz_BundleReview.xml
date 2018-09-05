@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <KPiotrowicz_BundleReview>
+            <active>true</active>
+            <codePool>local</codePool>
+        </KPiotrowicz_BundleReview>
+    </modules>
+</config>
